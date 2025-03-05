@@ -18,6 +18,8 @@ It features mostly compliant mechanisms for optical alignment, although as can b
 
 ## High pressure rinse station
 
+![Inventor CAD assembly of the high pressure rinse station](https://github.com/William-J-Daniels/mechanical/blob/main/high_pressure_rinse/hpr_assembly.png)
+
 The high pressure rinse station was developed during my internship at Brookhaven National Laboratory.
 Its purpose is to remove micrometer scale surface contaminates from RHIC and anticipated EIC superconducting electronics.
 This had to be accomplished while surviving the corrosive ultra-high purity water, not generating its own particulates to recontaminate the surfaces with, and having very low deflection.

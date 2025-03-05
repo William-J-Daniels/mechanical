@@ -6,6 +6,9 @@ Below are summaries of each project, in no particular order.
 
 ## Mach-Zehnder Interferometer
 
+![Onshape CAD assembly of the interferometer](https://github.com/William-J-Daniels/mechanical/blob/main/mach-zehnder-interferometer/mz_interferometer_cad.png)
+![Onshape sketch of the parametric compliant optical alignment mechanisms](https://github.com/William-J-Daniels/mechanical/blob/main/mach-zehnder-interferometer/compliant_cross_section.png)
+
 This project is the preliminary result of a collaborative effort between the Stony Brook chapter of the Society of Physics Students leadership to develop a low-cost Mach-Zehnder interferometer kit for educational use.
 My focus in the project was to design the frame that holds the mirrors an laser, which required several iterations to dial in tolerances and good communication with the students focusing on the mirrors and laser.
 Additionally, I had to design around the limitations of 3D printers, since that is how we manufactured the frames, paying close attention to ease of manufacture to keep the result accessible for potential users that might have inexpensive 3D printers.
